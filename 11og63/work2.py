@@ -5,6 +5,6 @@ d = 1
 while d <= rows :
   for rowe in range(rows):
     for y in range(columns):       
-     print("\t ',d,' ',end=')
+     print("\t ',d,' ',end='")
     print(" ")
     
